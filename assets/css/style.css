@@ -1,14 +1,28 @@
 /* ------------------ CSS FILE CHECKED AGAINST THE D.R.Y. PRINCIPLE AND NO ISSUES FOUND ---------------------- */
 
+/* ------------------ GLOBAL RESET --------------------------------------------------------------------------- */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* ------------------ MAIN TAG ELEMENTS HERE ---------------------------------------------------------------- */
+
 body {
   background-color: #d9dcd6;
 }
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* ------------------------ CLASSES SECTION HERE --------------------------------------------------------------- */
 
 .header {
   padding: 20px;
@@ -42,15 +56,6 @@ body {
 .header div ul li {
   display: inline-block;
   margin-left: 25px;
-}
-
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
 }
 
 .hero {
