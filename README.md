@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This study guide can be used on the fly as and when previously learnt topics are required. It will be added to over time, with more and more articles added and updated.
+This project is to return to commercial use and should demonstrate the improvements that have been made to the accessibility requiremnets of modern websites.
 
 ## Credits
 
